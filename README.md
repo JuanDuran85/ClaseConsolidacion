@@ -1,0 +1,2 @@
+# ClaseConsolidacion
+Ejemplo clase
